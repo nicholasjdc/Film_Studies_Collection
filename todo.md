@@ -1,0 +1,23 @@
+Todo:
+  - Necessary Functions
+    - Add Books
+    - Search books based on different metadata points
+  - Tech Used
+    - Firebase (Store book entries)
+    - Javascript (Website scripting language)
+    - HTML (display)
+    - CSS (Styling)
+    - Node.js (Allow application to communicate with Firebase)
+  - Screens
+    - Add Books
+      - entry number,author, title, publication, page count, ISBN, series title, note, resource, and language code.
+      - Chinese and English Entry
+    - Search Books
+      - Search by keyword
+        - Looks at all fields, searching for the word (if too expensive, maybe just author and title)
+      - Advance Search
+        - Specify Field Inputs
+          - entry number,author, title, publication, page count, ISBN, series title, note, resource, and language code.
+    - Display Books
+      - Display Entries while keeping search bar / advanced search bar at top
+    
