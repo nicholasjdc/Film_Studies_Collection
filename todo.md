@@ -29,6 +29,12 @@ Todo:
       - Toggle in addBooks.html
       - Toggle in searchBooks.html
       - Toggle in viewBooks.html (Fetched results will have the english, chinese, and pinyin information
+    - Allow editing entries
+    - Create Logins
+      - separates contributors from non-contributors
+      - Allow users to save Entries
+    - Allow users to export entries in other forms (e.g. plaintext, cv)
+    - Prettify, whatever
       
   - Necessary Functions
     - Add Books
