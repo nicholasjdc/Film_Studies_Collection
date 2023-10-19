@@ -1,4 +1,5 @@
 Todo:
+
 *Fields: entry number,author, title, publication, page count, ISBN, series title, note, resource, and language code.*
 *String entrynumber, String author, String title, String publication, String page count, String ISBN, String series title, String note, String resource, String language code*
   - Immediate Order
